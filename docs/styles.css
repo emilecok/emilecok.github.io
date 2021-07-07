@@ -8,6 +8,11 @@
     margin: 0;
 }
 
+*::selection {
+   color: #ffffff;
+   background-color: #ff96a6; 
+}
+
 html, 
 body {
     height: 90%;
